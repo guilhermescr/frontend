@@ -27,6 +27,8 @@ I loved the format and decided to build my own version to help me learn better.
 - Escalabilidade
 - Arquiteturas Frontend
 
+**Make beautiful images of code:** [chalk.ist](https://chalk.ist/)
+
 ## 🤓 Why this repo?
 
 Because learning is better when it's hands-on and well organized.  
